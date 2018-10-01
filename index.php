@@ -13,5 +13,6 @@
     </div> 
   </nav>
   <?php include("templates/registro_novedad.php");?>
+  
   <script src="js/condicion.js"></script>
 </body>
