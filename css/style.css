@@ -1,0 +1,17 @@
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+.h1, h1 {
+    font-size: 2.5rem;
+    margin-top: 65px;
+    margin-left: 300px;
+}
+form.formulario{
+  margin: 75px 400px 0 300px;
+}
+input#si {
+  margin: 0 10px 20px 50px;
+}
+input#no {
+  margin: 10px 10px 0 40px;
+}
+@import "bootstrap";
